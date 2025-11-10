@@ -22,7 +22,7 @@ Experience in building **AI-driven platforms**, **CRM systems**, and **e-commerc
 `JavaScript (ES6+)` · `TypeScript` · `HTML5` · `CSS3` · `PHP`
 
 **Frameworks & Libraries:**  
-`React` · `Next.js` · `Vue 2/3` · `Redux Toolkit` · `Zustand` · `TanStack Query`
+`React` · `Next.js` · `Vue 2/3` · `Nuxt` · `Redux Toolkit` · `Zustand` · `TanStack Query`
 
 **Styling:**  
 `SASS/SCSS` · `TailwindCSS` · `MUI` · `Ant Design` · `Styled Components` · `CSS Modules`
@@ -55,8 +55,8 @@ Experience in building **AI-driven platforms**, **CRM systems**, and **e-commerc
 
 ### 🖥️ Environment
 
-`Windows` · `Ubuntu`  
-`VS Code` · `Docker` · `Git` · `Node.js`
+`MacOS` · `Windows` · `Ubuntu`   
+`WebStorm` · `Docker` · `Git` · `Node.js`
 
 ---
 
